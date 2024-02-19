@@ -15,7 +15,7 @@ Identify the top 3 factors leading a customer to exit the bank.
 Client attribute dataset: The dataset comprises observations from 991 clients, and 14 variables such as demographic, bank account details, and salary ranges.
   
 ## Excel processes
-I conducted data cleaning, consistency checks, imputations, and basic statistical analyses on the provided dataset. Later, I pivoted the data into two groups those customers who exited and stayed in the bank. Here, 11 variables were assessed through percentage and average comparisons between the two groups. To support the significance difference between the two groups visuals and statistical testing analyses were performed. Click [here]() to access the Excel files containing the analysis. 
+I conducted data cleaning, consistency checks, imputations, and basic statistical analyses on the provided dataset. Later, I pivoted the data into two groups those customers who exited and stayed in the bank. Here, 11 variables were assessed through percentage and average comparisons between the two groups. To support the significance difference between the two groups visuals and statistical testing analyses were performed. Click [here](https://docs.google.com/spreadsheets/d/1ZPYldGnDlu4QBiy8ksEreQ942LHuS8QD/edit?usp=drive_link&ouid=100495170560300906732&rtpof=true&sd=true) to access the Excel files containing the analysis. 
  
 ## Addressing business questions
 Stakekholders were informed about the main data-driven findings with a [Word report](Interim_report_Nadia_Ordonez.pdf). 
